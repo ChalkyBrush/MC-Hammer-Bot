@@ -1,0 +1,1 @@
+/Users/ryanracioppo/bitmaker/mc_hammer_bot/node_modules/coffee-script/bin/coffee
