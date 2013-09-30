@@ -35,6 +35,14 @@ $(function() {
   bindMovement(
     ".stop",
     {forward: 0},
+    {turn: 0},
+    "Your MC Hammer Bot is now stopped.",
+    "Your MC Hammer Bot is probably on fire and still moving."
+  )
+
+  bindMovement(
+    ".backward",
+    {forward: -01,
     "Your MC Hammer Bot is now stopped.",
     "Your MC Hammer Bot is probably on fire and still moving."
   )
